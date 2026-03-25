@@ -1,0 +1,6 @@
+Scraper:
+  BaseUrl: "https://www.infocasas.com.uy/venta/inmuebles/montevideo"
+  ValidationUrl: "https://www.infocasas.com.uy"
+  AmountOfProperties: 10
+  DBpath: "src/database/ejemplo_practico2.db"
+  LogLevel: 10 # INFO:20, DEBUG:10
