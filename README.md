@@ -176,6 +176,6 @@ Buenas prácticas al interactuar con bases de datos:
 ## 4. Ejercicio
 
 
-El ejercicio de este práctico consiste en crear un scraper para una página de interés, y dejarlo en el código en la carpeta `src/scrapers`. A modo de ejemplo, si el scraper que se haga es de Info Casas, el archivo nuevo podría ser `src/scrapers/info_casas.py`.
+El ejercicio de este práctico consiste en crear un scraper para una página a elección, y dejarlo en el código en la carpeta `src/scrapers`.
 
 El scraper debe poder correr localmente y almacenar los datos en una BD local SQLite.
