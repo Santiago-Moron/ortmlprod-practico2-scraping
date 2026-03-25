@@ -1,4 +1,4 @@
-# Práctico 2 - Web Scraping con Python y Docker
+# Práctico 2 - Web Scraping y base de datos
 
 En este práctico se implementará un web scraper utilizando Python para extraer información de propiedades inmobiliarias de un sitio web y almacenarlas en una base de datos local.
 
